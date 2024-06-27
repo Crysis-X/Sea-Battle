@@ -1,0 +1,8 @@
+.cell {
+    font-size: 2vw;
+    background: #fff;
+    border: 1px solid #000;
+}
+.cell:focus {
+    border: 3px solid #000;
+}

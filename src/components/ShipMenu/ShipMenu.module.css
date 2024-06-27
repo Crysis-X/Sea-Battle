@@ -1,0 +1,8 @@
+.shipMenu {
+    display: flex;
+    justify-content: space-between;
+}
+.shipMenuItem {
+    display: flex;
+    flex-direction: column;
+}

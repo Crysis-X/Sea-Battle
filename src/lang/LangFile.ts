@@ -1,0 +1,21 @@
+export type LangFile = {
+  sw: string;
+  player_1: string;
+  player_2: string;
+  change_name: string;
+  continue: string;
+  start_game: string;
+  turn: string;
+  winner: string;
+  play_again: string;
+  letters: string[];
+  choose: string;
+  settings: string;
+  exit: string;
+  languangeSettings: string;
+  direction: string;
+  top: string;
+  bottom: string;
+  left: string;
+  right: string;
+};
